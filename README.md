@@ -3,8 +3,6 @@ Hi 👋, I'm Nguyễn Chấn Nam Doanh
 
 A passionate software developer from Vietnam. Possesses strong business and data analytics skills. Always eager to learn and persistent.
 
-🔭 I’m currently working on Administrative Office of the Faculty of Information Technology
-
 🌱 I’m currently learning about data analysis tools, IT service management (ITSM), and maybe a bit of Python or R for automation — always expanding my tech and admin skill set.
 
 👯 I’m looking for opportunities to collaborate in solving business problems.
